@@ -1,9 +1,11 @@
 # marvel_movie_selector
 Marvel movie selector. Which Marvel movie I should watch today?
 
-https://github.com/AugustoMarcelo/mcuapi?tab=readme-ov-file
+Coded by ANUMIT JOOLOOR
+
 
 This app uses these JSON API -
+https://github.com/AugustoMarcelo/mcuapi?tab=readme-ov-file
 https://mcuapi.herokuapp.com/docs/#/
 
 https://mcuapi.herokuapp.com/api/v1/movies/
